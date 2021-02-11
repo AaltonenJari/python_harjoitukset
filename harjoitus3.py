@@ -19,4 +19,4 @@ def kolmas_funktio():
 funktion_palautus = kolmas_funktio()
 print(funktion_palautus)
 
-#funktio palautuksella ja arg
+#funktio palautuksella ja argumenteilla
