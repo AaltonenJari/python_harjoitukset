@@ -26,7 +26,7 @@ print(kolmas_lista)
 kolmas_lista[0] = eka_lista
 print(kolmas_lista)
 
-print(kolmas_lista[0][5]) #viitataan alaindeksiin
+# print(kolmas_lista[0][5]) #viitataan alaindeksiin
 
 print(toka_lista)
 eka_muuttuja = toka_lista.pop(0)
