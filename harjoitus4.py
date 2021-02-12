@@ -29,3 +29,4 @@ while True:
 Syote2 = ""
 while Syote2 != "on":
     Syote2 = input("Kirjoita: On ")
+
